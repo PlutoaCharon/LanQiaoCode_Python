@@ -17,3 +17,4 @@ for i in range(1,k):
     ans = (ans + dp[i][l])%mod
 
 print(ans)
+
