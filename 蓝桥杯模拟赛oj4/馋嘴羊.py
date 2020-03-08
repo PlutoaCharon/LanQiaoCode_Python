@@ -1,5 +1,6 @@
 import sys
 sys.setrecursionlimit(1000000)
+
 def dfs(x, y):
 
     if x < 0 or y < 0 or x > n - 1 or y > m - 1 or vis[x][y] == 1 or arr[x][y] == '0':
