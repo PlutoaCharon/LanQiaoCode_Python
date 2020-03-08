@@ -1,4 +1,4 @@
-# LanQiaoCode_python
+# LanQiaoCode_Python
 
 喜欢作者麻烦点个star⭐支持一下吧
 
