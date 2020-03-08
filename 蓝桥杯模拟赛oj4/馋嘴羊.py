@@ -19,8 +19,5 @@ if __name__ == '__main__':
 
     vis = [[0 for _ in range(m)] for _ in range(n)] # 判断是否走过,0为未走过,1为走过
     ans = 0
-
     dfs(x,y)
-
-
     print(ans)
