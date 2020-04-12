@@ -1,4 +1,3 @@
-# from fractions import Fraction
 numerate : float = 4.0
 denominator : float = 1.0
 operation : float = 1.0

@@ -1,3 +1,7 @@
+'''
+
+'''
+
 def solve(num):
     list = []
     tmp = 2
