@@ -1,6 +1,6 @@
 n, m = map(int, input().split())
 tmp = []
-vis = [[0 for i in range(m)] for i in range(n)] # 验证位置是否走过
+vis = [[0 for _ in range(m)] for _ in range(n)] # 验证位置是否走过
 arr = [list(map(int, input().split())) for _ in range(n)]
 # 注意: 向下为x, 向右为y
 x = 0 # 当前纵坐标
