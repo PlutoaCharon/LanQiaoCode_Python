@@ -28,9 +28,9 @@
 def isTure(i):
     for j in range(n):
         if i != j and vis[j]:
-            if (x[i] - x[j]) * (x[i] - x[j]) + (y[i] - y[j]) * (y[i] - y[j]) > (r[i] + r[j]) * (r[i] + r[j]):
-                return True
-    return False
+            if (x[i] - x[j]) * (x[i] - x[j]) + (y[i] - y[j]) * (y[i] - y[j]) < (r[i] + r[j]) * (r[i] + r[j]):
+                return False
+    return True
 
 
 def dfs(step, sum):
