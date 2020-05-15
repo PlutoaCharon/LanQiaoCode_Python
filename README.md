@@ -1,5 +1,7 @@
 # LanQiaoCode_Python
 
+[](Images/1.png)
+
 喜欢作者麻烦点个star⭐支持一下吧
 
 蓝桥杯官网VIP试题,历届真题,模拟赛代码**Python**实现与讲解
