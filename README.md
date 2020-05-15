@@ -1,6 +1,6 @@
 # LanQiaoCode_Python
 
-[](Images/1.png)
+![](./Images/1.png)
 
 喜欢作者麻烦点个star⭐支持一下吧
 
