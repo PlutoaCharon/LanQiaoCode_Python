@@ -1,12 +1,12 @@
 # LanQiaoCode_Python
 
-![](./Images/1.png)
+![](./Images/1.png) 
 
-喜欢作者麻烦点个star⭐支持一下吧
+喜欢作者麻烦点个star支持一下吧
 
 蓝桥杯官网VIP试题,历届真题,模拟赛代码**Python**实现与讲解
 
-详细代码讲解思路与题目介绍可以参考我的博客:
+详细代码讲解思路与题目介绍可以参考我的博客:⭐
 
 [Python算法学习: 蓝桥杯官方省赛真题(持续更新)-CSDN](https://blog.csdn.net/qq_43442524/article/details/104188100)
 
