@@ -1,6 +1,6 @@
 # LanQiaoCode_Python
 
-![](./Images/1.png) 
+![](https://pic.downk.cc/item/5ecf25ebc2a9a83be5ba0765.png)
 
 喜欢作者麻烦点个star支持一下吧
 
