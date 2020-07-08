@@ -8,3 +8,4 @@ p2.name.append(2)
 print(p1.name)  # [1]
 print(p2.name) # [1]
 print(Person.name)  # [1]
+print()
