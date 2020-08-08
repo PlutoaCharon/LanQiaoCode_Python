@@ -26,7 +26,7 @@ def lcs(str1, str2):
         for j in range(l1 + 1):
             if i == 0 or j == 0:  # arr[0][j] 与 arr[i][0]全部置为0
                 arr[i][j] = 0
-            elif i > 0 and j > 0 and str2[i - 1] == str1[j - 1]: # 如果有相等的字符, 则加1
+            elif i > 0 and j > 0 and str2[i - 1] == str1[j - 1]:  # 如果有相等的字符, 则加1
                 arr[i][j] = 1 + arr[i - 1][j - 1]
             else:
                 arr[i][j] = max(arr[i][j - 1], arr[i - 1][j])
