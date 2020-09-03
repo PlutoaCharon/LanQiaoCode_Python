@@ -16,14 +16,17 @@
 # for i in range(len(list)):
 #     print(list[i])
 # 方法二
-nums = [1,2,3]
+nums = [1, 2, 3]
 res = []
+
+
 def backtrack(nums, tmp):
     if not nums:
         res.append(tmp)
         return
     for i in range(len(nums)):
-        backtrack(nums[:i] + nums[i+1:], tmp + [nums[i]])
+        backtrack(nums[:i] + nums[i + 1:], tmp + [nums[i]])
+
+
 backtrack(nums, [])
 print(res)
-
