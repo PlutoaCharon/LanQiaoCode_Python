@@ -4,6 +4,8 @@ def is_pal(num):
         return True
     else:
         return False
+
+
 if __name__ == '__main__':
     for i in range(1000, 10000):
         if is_pal(i):

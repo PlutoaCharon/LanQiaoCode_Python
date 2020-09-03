@@ -32,11 +32,12 @@ n <= 100000
 0<= l <= r <= 1000000000
 '''
 import math
+
 n = int(input())
 for i in range(n):
     A = list(map(int, input().split()))
     isum = int()
-    a = math.ceil(pow(A[0],1/2))
-    b = math.floor(pow(A[1],1/2))
+    a = math.ceil(pow(A[0], 1 / 2))
+    b = math.floor(pow(A[1], 1 / 2))
     isum = b - a + 1
     print(isum)
